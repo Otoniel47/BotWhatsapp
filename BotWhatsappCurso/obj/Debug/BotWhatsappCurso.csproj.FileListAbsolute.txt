@@ -1,0 +1,13 @@
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\bin\Debug\BotWhatsappCurso.exe.config
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\bin\Debug\BotWhatsappCurso.exe
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\bin\Debug\BotWhatsappCurso.pdb
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\bin\Debug\prmToolkit.Selenium.dll
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\bin\Debug\WebDriver.dll
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\obj\Debug\BotWhatsappCurso.csproj.AssemblyReference.cache
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\obj\Debug\BotWhatsappCurso.csproj.CoreCompileInputs.cache
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\obj\Debug\BotWhatsappCurso.csproj.CopyComplete
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\obj\Debug\BotWhatsappCurso.exe
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\obj\Debug\BotWhatsappCurso.pdb
+C:\Users\otoni\source\repos\BotWhatsappCurso\BotWhatsappCurso\bin\Debug\SeleniumExtras.WaitHelpers.dll
